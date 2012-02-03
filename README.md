@@ -2,4 +2,4 @@
 
 Browser information
 
-[2citizen.com](http://2citizen.com/bi)
+[2citizen.com/bi](http://2citizen.com/bi)
