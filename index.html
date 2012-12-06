@@ -126,10 +126,10 @@
     $(function(){
         $('.document, .window').show();
         $(window).resize(function(){
-            var documentWidth = $(document).width();
-            var documentHeight = $(document).height();
-            var windowWidth = $(window).width();
-            var windowHeight = $(window).height();
+            var documentWidth = $(document).width(),
+                documentHeight = $(document).height(),
+                windowWidth = $(window).width(),
+                windowHeight = $(window).height();
             $('.document .content').html(documentWidth + ' x ' + documentHeight);
             $('.window .content').html(windowWidth + ' x ' + windowHeight);
         });
