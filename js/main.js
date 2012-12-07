@@ -1,4 +1,7 @@
 $(function(){
+
+    console.log(window.navigator);
+
     $('#wrapper').show();
     $(window).resize(function(){
         var documentWidth = $(document).width(),
