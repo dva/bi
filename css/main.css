@@ -5,6 +5,7 @@
 */
 
 #wrapper {
+    display: none;
     position: absolute;
     width: 500px;
     height: 300px;
@@ -28,9 +29,4 @@
     padding: 10px 0 40px 0;
     color: #5e5e5e;
     font-weight: bold;
-}
-
-.document,
-.window {
-    display: none;
 }

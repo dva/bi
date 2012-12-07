@@ -1,5 +1,5 @@
 $(function(){
-    $('.document, .window').show();
+    $('#wrapper').show();
     $(window).resize(function(){
         var documentWidth = $(document).width(),
             documentHeight = $(document).height(),
