@@ -11,7 +11,7 @@
 @media (max-width: 480px) {
 
     .info {
-        font-size: 0.8em;
+        display: none;
     }
 
     #wrapper {
